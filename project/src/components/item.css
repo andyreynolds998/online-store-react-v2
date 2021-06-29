@@ -1,0 +1,17 @@
+.item{
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 3px 2px;
+    width: 50%;
+    display: inline-block;
+}
+.item label{
+    margin-right: .5rem;
+}
+.item button{
+    background-color: green;
+}
+.item img{
+    height: 50%;
+    width: 60%;
+}

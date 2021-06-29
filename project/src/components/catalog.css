@@ -1,0 +1,11 @@
+.catalog-page{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+    /*grid-template-columns: repeat (3,1fr);*/
+}
+.item{
+    flex: 1;
+    flex-basis: 33%;
+}
